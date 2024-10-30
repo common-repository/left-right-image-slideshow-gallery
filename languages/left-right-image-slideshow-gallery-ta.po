@@ -1,0 +1,307 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Left right image slideshow gallery\n"
+"POT-Creation-Date: 2015-11-18 22:00+0800\n"
+"PO-Revision-Date: 2015-11-18 22:00+0800\n"
+"Last-Translator: \n"
+"Language-Team: www.gopiplus.com <www.gopiplus.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../left-right-image-slideshow-gallery.php:83
+msgid "Please check the widget setting gallery group"
+msgstr ""
+
+#: ../left-right-image-slideshow-gallery.php:132
+#: ../left-right-image-slideshow-gallery.php:238
+msgid "Left right slideshow"
+msgstr "வலது இடது ஸ்லைடுஷோ"
+
+#: ../left-right-image-slideshow-gallery.php:134
+#: ../pages/image-management-add.php:175
+#: ../pages/image-management-edit.php:199
+#: ../pages/image-management-show.php:129 ../pages/image-setting.php:111
+msgid "Check official website for more information"
+msgstr "மேலும் தகவலுக்கு அதிகாரப்பூர்வ இணையதளம் பாருங்கள்"
+
+#: ../left-right-image-slideshow-gallery.php:135
+#: ../pages/image-management-add.php:176
+#: ../pages/image-management-edit.php:200
+#: ../pages/image-management-show.php:130 ../pages/image-setting.php:112
+msgid "click here"
+msgstr "இங்கே கிளிக் செய்யவும்"
+
+#: ../left-right-image-slideshow-gallery.php:228
+msgid "Please check the short code"
+msgstr "சுருக்குக்குறியீடு சரிபார்க்கவும்"
+
+#: ../left-right-image-slideshow-gallery.php:237
+#: ../left-right-image-slideshow-gallery.php:247
+#: ../left-right-image-slideshow-gallery.php:252
+#: ../pages/image-management-add.php:118
+#: ../pages/image-management-edit.php:142
+#: ../pages/image-management-show.php:53 ../pages/image-setting.php:6
+msgid "Left right image slideshow gallery"
+msgstr "ஸ்லைடுஷோ கேலரி"
+
+#: ../pages/image-management-add.php:28 ../pages/image-management-edit.php:57
+msgid "Please enter the image path."
+msgstr "Please enter the image path."
+
+#: ../pages/image-management-add.php:35 ../pages/image-management-edit.php:64
+msgid "Please enter the target link."
+msgstr "Please enter the target link."
+
+#: ../pages/image-management-add.php:56
+msgid "New image details was successfully added."
+msgstr "புதிய படத்தை விவரங்கள் வெற்றிகரமாக சேர்க்கப்பட்டது."
+
+#: ../pages/image-management-add.php:84 ../pages/image-management-edit.php:108
+msgid "Click here"
+msgstr "இங்கே கிளிக் செய்யவும்"
+
+#: ../pages/image-management-add.php:84 ../pages/image-management-edit.php:108
+msgid "to view the details"
+msgstr "விவரங்கள் பார்வையிட"
+
+#: ../pages/image-management-add.php:120
+msgid "Add new image details"
+msgstr "விவரங்களை சேர்க்க"
+
+#: ../pages/image-management-add.php:121
+msgid "Enter image path (URL)"
+msgstr "பட பாதை சேர்க்கவும் (URL)"
+
+#: ../pages/image-management-add.php:124
+#: ../pages/image-management-edit.php:148
+msgid "Where is the picture located on the internet"
+msgstr "Where is the picture located on the internet"
+
+#: ../pages/image-management-add.php:125
+#: ../pages/image-management-edit.php:149
+msgid "Enter target link"
+msgstr "இலக்கு இணைப்பு "
+
+#: ../pages/image-management-add.php:127
+#: ../pages/image-management-edit.php:151
+msgid "When someone clicks on the picture, where do you want to send them"
+msgstr "When someone clicks on the picture, where do you want to send them"
+
+#: ../pages/image-management-add.php:128
+#: ../pages/image-management-edit.php:152
+msgid "Enter target option"
+msgstr "இலக்கு விருப்பம்"
+
+#: ../pages/image-management-add.php:135
+#: ../pages/image-management-edit.php:159
+msgid "Do you want to open link in new window?"
+msgstr "Do you want to open link in new window?"
+
+#: ../pages/image-management-add.php:136
+#: ../pages/image-management-edit.php:160
+msgid "Enter image reference"
+msgstr "பட குறிப்பு"
+
+#: ../pages/image-management-add.php:138
+#: ../pages/image-management-edit.php:162
+msgid "Enter image reference. This is only for reference."
+msgstr "Enter image reference. This is only for reference."
+
+#: ../pages/image-management-add.php:139
+#: ../pages/image-management-edit.php:163
+msgid "Select gallery group"
+msgstr ""
+
+#: ../pages/image-management-add.php:154
+#: ../pages/image-management-edit.php:178
+msgid "This is to group the images. Select your slideshow group."
+msgstr "This is to group the images. Select your slideshow group."
+
+#: ../pages/image-management-add.php:155
+#: ../pages/image-management-edit.php:179
+msgid "Display status"
+msgstr ""
+
+#: ../pages/image-management-add.php:160
+#: ../pages/image-management-edit.php:184
+msgid "Do you want the picture to show in your galler?"
+msgstr "Do you want the picture to show in your galler?"
+
+#: ../pages/image-management-add.php:161
+#: ../pages/image-management-edit.php:185
+msgid "Display order"
+msgstr ""
+
+#: ../pages/image-management-add.php:163
+#: ../pages/image-management-edit.php:187
+msgid ""
+"What order should the picture be played in. should it come 1st, 2nd, 3rd, "
+"etc."
+msgstr ""
+"What order should the picture be played in. should it come 1st, 2nd, 3rd, "
+"etc."
+
+#: ../pages/image-management-add.php:167
+#: ../pages/image-management-edit.php:191 ../pages/image-setting.php:103
+msgid "Submit"
+msgstr "சமர்ப்பிக்க"
+
+#: ../pages/image-management-add.php:168
+#: ../pages/image-management-edit.php:192 ../pages/image-setting.php:104
+msgid "Cancel"
+msgstr "ரத்து"
+
+#: ../pages/image-management-add.php:169
+#: ../pages/image-management-edit.php:193
+#: ../pages/image-management-show.php:124 ../pages/image-setting.php:105
+msgid "Help"
+msgstr "உதவி"
+
+#: ../pages/image-management-edit.php:18 ../pages/image-management-show.php:23
+msgid "Oops, selected details doesnt exist"
+msgstr "அச்சச்சோ, தேர்வு விவரங்கள் இல்லை"
+
+#: ../pages/image-management-edit.php:92
+msgid "Image details was successfully updated."
+msgstr "வெற்றிகரமாக புதுப்பிக்கப்பட்டது."
+
+#: ../pages/image-management-edit.php:144
+msgid "Update image details"
+msgstr ""
+
+#: ../pages/image-management-edit.php:145
+msgid "Enter image path"
+msgstr ""
+
+#: ../pages/image-management-show.php:41
+msgid "Selected record was successfully deleted."
+msgstr "வெற்றிகரமாக நீக்கப்பட்டது."
+
+#: ../pages/image-management-show.php:54
+#: ../pages/image-management-show.php:122
+msgid "Add New"
+msgstr "சேர்க்க"
+
+#: ../pages/image-management-show.php:67 ../pages/image-management-show.php:77
+msgid "Group/Type"
+msgstr "குழு"
+
+#: ../pages/image-management-show.php:68 ../pages/image-management-show.php:78
+msgid "Reference"
+msgstr "குறிப்பு"
+
+#: ../pages/image-management-show.php:69 ../pages/image-management-show.php:79
+msgid "URL"
+msgstr "URL"
+
+#: ../pages/image-management-show.php:70 ../pages/image-management-show.php:80
+msgid "Order"
+msgstr "ஆர்டர்"
+
+#: ../pages/image-management-show.php:71 ../pages/image-management-show.php:81
+msgid "Display"
+msgstr "காண்பி"
+
+#: ../pages/image-management-show.php:97
+msgid "Edit"
+msgstr "திருத்து"
+
+#: ../pages/image-management-show.php:98
+msgid "Delete"
+msgstr "நீக்கு"
+
+#: ../pages/image-management-show.php:112
+msgid "No records available"
+msgstr "பதிவுகள் இல்லை"
+
+#: ../pages/image-management-show.php:123 ../pages/image-setting.php:7
+msgid "Widget setting"
+msgstr "விட்ஜெட்டை அமைப்பு"
+
+#: ../pages/image-setting.php:46
+msgid "Details successfully updated."
+msgstr "விவரங்கள் வெற்றிகரமாக மேம்படுத்தப்பட்டது."
+
+#: ../pages/image-setting.php:54
+msgid "Enter widget title"
+msgstr ""
+
+#: ../pages/image-setting.php:56
+msgid "Enter widget title, Only for widget."
+msgstr "Enter widget title, Only for widget."
+
+#: ../pages/image-setting.php:58
+msgid "Width (Only number)"
+msgstr ""
+
+#: ../pages/image-setting.php:60
+msgid "Widget Width (only number). (Example: 250)"
+msgstr "Widget Width (only number). (Example: 250)"
+
+#: ../pages/image-setting.php:62
+msgid "Height of each image"
+msgstr ""
+
+#: ../pages/image-setting.php:64
+msgid "Widget Height (only number). (Example: 200)"
+msgstr "Widget Height (only number). (Example: 200)"
+
+#: ../pages/image-setting.php:66
+msgid "Pause"
+msgstr "இடைநிறுத்து"
+
+#: ../pages/image-setting.php:68
+msgid "Only Number / Pause time of the slideshow in milliseconds."
+msgstr "Only Number / Pause time of the slideshow in milliseconds."
+
+#: ../pages/image-setting.php:70
+msgid "Cycles"
+msgstr "சுழற்சிகள்"
+
+#: ../pages/image-setting.php:72
+msgid ""
+"Gallery will automatically start the slideshow and it will stop number of "
+"cycle mentioned in this property. (only number)"
+msgstr ""
+"Gallery will automatically start the slideshow and it will stop number of "
+"cycle mentioned in this property. (only number)"
+
+#: ../pages/image-setting.php:74
+msgid "Persist"
+msgstr ""
+
+#: ../pages/image-setting.php:78
+msgid "Slide duration"
+msgstr ""
+
+#: ../pages/image-setting.php:80
+msgid "Slideshow transition duration in milliseconds."
+msgstr "Slideshow transition duration in milliseconds."
+
+#: ../pages/image-setting.php:82
+msgid "Random"
+msgstr ""
+
+#: ../pages/image-setting.php:84
+msgid "(YES/NO)"
+msgstr "(YES/NO)"
+
+#: ../pages/image-setting.php:86
+msgid "Select your gallery group"
+msgstr "கேலரி குழு"
+
+#: ../pages/image-setting.php:101
+msgid ""
+"This field is to group the images. Select your group name to fetch the "
+"images for widget."
+msgstr ""
+"This field is to group the images. Select your group name to fetch the "
+"images for widget."
+
+#~ msgid "Target"
+#~ msgstr "இலக்கு"
